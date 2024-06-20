@@ -28,10 +28,10 @@ The difference again is in the layers component. Instead of using an LSTM or GRU
 3. The rest of the network classifies the text based on this information.
 
 ## Results
-    - `accuracy: %`
-    - `loos : %`
-    - `Validation_loss: %`
-    - `Validation_accuracy: %`
+    - `accuracy: 94%`
+    - `loos : 18%`
+    - `Validation_loss: 36%`
+    - `Validation_accuracy: 84%`
 
 # Prerequisites
 Function dependencies used in this project:
